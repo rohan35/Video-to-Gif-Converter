@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1022795187491",
+    "firebase_url": "https://appanalytics-2b0bd.firebaseio.com",
+    "project_id": "appanalytics-2b0bd",
+    "storage_bucket": "appanalytics-2b0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022795187491:android:725dfd3f4472a8f4",
+        "android_client_info": {
+          "package_name": "com.raydevelopers.sony.video2gif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022795187491-u18bq1sv1janvpgmohimuutpvutd71i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOIxo3WUFXIGyQyD5vgDJfYfIhv0-wCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

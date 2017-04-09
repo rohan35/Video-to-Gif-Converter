@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Video2Gif</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="alert_dlg_convert">Converting..</string>
+    <string name="retry_string">Retry</string>
+    <string name="path">path</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="ffmpeg_onstart_string">Converting ...</string>
+    <string name="ffmpeg_onprogress_string">Progress :</string>
+    <string name="image_type">image/gif</string>
+    <string name="no_videos">No Videos</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8488360046079909/2512816276</string>
+    <string name="app_id">ca-app-pub-8488360046079909~7082616671</string>
+    <string name="app_share_string">Convert your videos into a gif and share it with your friends.</string>
+    <string name="app_share_link">https://play.google.com/store/apps/details?id=com.raydevelopers.sony.video2gif</string>
+    <string name="string_gallery">Import From Gallery</string>
+    <string name="string_converted">Converted Videos</string>
+    <string name="share">Share</string>
+    <string name="string_communicate">Communicate</string>
+</resources>
